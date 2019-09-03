@@ -1,0 +1,45 @@
+body.sign-in-body{
+    background-color:cadetblue;
+}
+.container.signin-container{
+    margin-top: 5%;
+}
+.card.sigin-card{
+    padding: 40px 0px 20px;
+    background-color: #f4f4f4f4;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+    -moz-box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+}
+.img-fluid.signin-img{
+    width: 45%;
+    padding: 0rem 2rem 2rem;
+    margin: auto;
+    display: block;
+}
+.signin-form{
+   max-width: 350px;
+   margin:auto;
+}
+button.signin-button{
+    color: #ffffff;
+    background-color: #d64829;
+    width: 100%;
+}
+#check{
+    margin-top:5px;
+}
+#help{
+    color: blue;
+}
+#create{
+    font-size: 1.2rem;
+    text-align: center;
+    color:#ffffff;
+    display: block;
+}
+#Acc{
+    background-color: dodgerblue;
+    margin-left:20%;
+    margin-right:20%;
+}
